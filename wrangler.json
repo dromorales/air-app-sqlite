@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "air-app-sqlite",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5e876992-0917-4d0c-bf17-e36d2be8d6c6",
+      "database_name": "air-app-sqlite"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
